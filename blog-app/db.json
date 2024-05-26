@@ -27,6 +27,13 @@
             "password": "123465",
             "name": "Ahmet Kaya",
             "email": "academyakm0@gmail.com"
+        },
+        {
+            "id": 5,
+            "username": "drgdrg",
+            "password": "dgrdg",
+            "name": "F\u0131rat I\u015eILDAK",
+            "email": "drdgrdg"
         }
     ],
     "movies": [
